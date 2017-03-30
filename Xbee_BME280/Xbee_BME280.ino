@@ -33,7 +33,6 @@ uint16_t dig_P1;
  int8_t  dig_H6;
 //-------------------Packet----------------------
 int id = 1;
-int nothing = 0;
 //--test--//
 int t2 = 30;
 int h2 = 300;
